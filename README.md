@@ -6,14 +6,12 @@
 
 
 <a href="https://www.leetcode.com/ayushxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushxd" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-username" height="30" width="40" />
+<a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kandpal-70172a29b" height="30" width="40" />
 </a>
-
-
 <a href="https://www.instagram.com/ayush.k_17" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-username" height="30" width="40" />
+</a>
 
 
 
