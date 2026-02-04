@@ -1,39 +1,73 @@
-<h1 align="center">Hi,I'm Ayush Kandpal</h1>
-<h3 align="center">A passionate Java developer from India!</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<p>
-  <a href="https://leetcode.com/ayushxd" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/ayush.k_17" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushx07-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushx07-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushx07-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi 👋, I'm Ayush Kandpal</h1>
+<h3 align="center">Java Backend Developer | Fresher | India 🇮🇳</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushx07-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student / Graduate  
+- 💻 Passionate about Java & Backend Development  
+- 🌱 Currently learning **Spring Boot & Microservices**  
+- 📌 Looking for **Entry-Level / Fresher Java Developer roles**  
+- 🚀 Solving DSA problems on LeetCode  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://leetcode.com/ayushxd" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="35"/>
+</a>
+<a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
+</a>
+<a href="https://www.instagram.com/ayush.k_17" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,linux,js,css,html&theme=dark" />
+
+---
+
+## 📂 Projects
+
+### 🔹 Student Management System
+- Java + Spring Boot + MySQL
+- CRUD Operations
+- REST APIs
+
+### 🔹 Authentication System
+- JWT Based Login System
+- Spring Security
+- MySQL Database
+
+### 🔹 DSA Practice
+- Solved 200+ Problems on LeetCode
+- Arrays, Strings, LinkedList, Trees
+
+> *(Add GitHub repo links here later)*
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ayushx07-web&theme=dark&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ayushx07-web&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushx07-web&layout=compact&theme=dark)
+
+---
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?theme=dark)
+
+---
+
+⭐ From [Ayush Kandpal](https://github.com/ayushx07-web)
+
