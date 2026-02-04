@@ -66,14 +66,11 @@
 
 ### 🔹 DSA Practice
 
-<p align="left">
-  <a href="https://leetcode.com/u/ayushxd/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="35"/>
-  </a>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-ayushxd-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ayushxd/)
 
 - Solved 160+ Problems on LeetCode  
 - Arrays, Strings, LinkedList, Trees  
+
  
 
 
