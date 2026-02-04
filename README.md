@@ -37,21 +37,42 @@
 
 ## 📂 Projects
 
-### 🔹 Student Management System
-- Java + Spring Boot + MySQL
-- CRUD Operations
-- REST APIs
+### 🔹 Word Predictor (NLP Project)
+🔗 https://github.com/ayushx07-web/Word-Predictor  
 
-### 🔹 Authentication System
-- JWT Based Login System
-- Spring Security
-- MySQL Database
+- Built a machine learning model to predict next words
+- Used NLP techniques for text preprocessing
+- Useful for autocomplete systems
+
+**Tech:** Python, NLP, ML, Pandas, NumPy
+
+---
+
+### 🔹 AutoCorrect Model (NLP Project)
+🔗 https://github.com/ayushx07-web/AutoCorrect-Model  
+
+- Developed an autocorrect system for spelling correction
+- Implemented text similarity and word matching
+- Improves typing accuracy
+
+**Tech:** Python, NLP, Machine Learning
+
+---
+
+### 🔹 Student Management System (Planned - Spring Boot)
+- Java + Spring Boot + MySQL
+- REST APIs + CRUD
+
 
 ### 🔹 DSA Practice
-- Solved 200+ Problems on LeetCode
-- Arrays, Strings, LinkedList, Trees
 
-> *(Add GitHub repo links here later)*
+<a href="https://leetcode.com/u/ayushxd/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="28"/>
+</a> [View My LeetCode Profile](https://leetcode.com/u/ayushxd/)
+
+- Solved 160+ Problems on LeetCode  
+- Arrays, Strings, LinkedList, Trees  
+
 
 ---
 
