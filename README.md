@@ -5,33 +5,37 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student / Graduate  
+- 🎓 Computer Science Student 
 - 💻 Passionate about Java & Backend Development  
 - 🌱 Currently learning **Spring Boot & Microservices**  
 - 📌 Looking for **Entry-Level / Fresher Java Developer roles**  
-- 🚀 Solving DSA problems on LeetCode  
+- 🚀 Solving DSA problems on LeetCode 
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://leetcode.com/ayushxd" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35"/>
-</a>
-<a href="https://www.instagram.com/ayush.k_17" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="35"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ayush-kandpal-70172a29b" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ayushxd/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="35"/>
+  </a>
 </p>
+
 
 ---
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,linux,js,css,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,maven,html,css,js&theme=dark" />
+
+**Frameworks & Concepts:**  
+Spring Boot • Spring MVC • JPA • REST API • Spring Security
 
 ---
 
