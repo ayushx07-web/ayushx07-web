@@ -63,9 +63,7 @@ Spring Boot • Spring MVC • JPA • REST API • Spring Security
 
 ---
 
-### 🔹 Student Management System (Planned - Spring Boot)
-- Java + Spring Boot + MySQL
-- REST APIs + CRUD
+### 🔹 
 
 
 ### 🔹 DSA Practice
