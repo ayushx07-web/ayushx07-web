@@ -63,15 +63,31 @@ Spring Boot • Spring MVC • JPA • REST API • Spring Security
 
 ---
 
-### 🔹 
+### 🔹 E-Commerce Backend API(SpringBoot)
+🔗 https://github.com/yourusername/ecommerce-backend-api
+
+A production-ready RESTful API backend system built with Spring Boot, featuring comprehensive e-commerce functionality including user authentication, product management, shopping cart operations, and order processing.
+
+Key Features:
+- JWT token-based authentication with Spring Security
+- Role-Based Access Control (RBAC) for Admin and Customer roles
+- Shopping cart with real-time calculations
+- Order processing with automatic stock management
+- 15+ RESTful API endpoints
+- 6 normalized database tables with JPA/Hibernate
+- Global exception handling and input validation
+- DTO pattern for clean API responses
+
+---
+
 
 
 ### 🔹 DSA Practice
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-ayushxd-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ayushxd/)
 
-- Solved 160+ Problems on LeetCode  
-- Arrays, Strings, LinkedList, Trees  
+- Solved 170+ Problems on LeetCode  
+- Arrays, Strings, LinkedList, Trees,Sliding Window,Recursion... 
 
  
 
